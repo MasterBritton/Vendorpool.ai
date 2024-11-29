@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A simple landing page example for GitHub Pages">
+    <title>Your Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to Our Landing Page!</h1>
+        <p>Discover amazing offers and sign up for exclusive updates.</p>
+        <a href="#signup" class="cta-button">Get Started</a>
+    </header>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Our Offer</h2>
+        <p>We're offering exclusive access to new products, events, and promotions. Don't miss out on these amazing deals!</p>
+    </section>
+
+    <!-- Signup Section -->
+    <section id="signup">
+        <h2>Sign Up Now</h2>
+        <form action="https://formspree.io/f/myformid" method="POST">
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <button type="submit">Sign Up</button>
+        </form>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Your Company. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
