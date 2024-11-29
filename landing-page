@@ -11,8 +11,8 @@
 
     <!-- Header Section -->
     <header>
-        <h1>Welcome to Our Landing Page!</h1>
-        <p>Discover amazing offers and sign up for exclusive updates.</p>
+        <h1>Welcome to Vendorpool.ai!</h1>
+        <p>Discover and compare vendors in every industry.</p>
         <a href="#signup" class="cta-button">Get Started</a>
     </header>
 
